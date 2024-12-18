@@ -8,4 +8,4 @@ Consigli del giorno:
 1. scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 2. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo “a mano”;Dopo esserci concentrati sul far funzionare le cose e averle testate,
 ragioniamo  sul possibile refactoring, quindi ottimizzazione possibile,
-sia del codice come performance, ma anche, se non soprattutto come leggibilità e mantenibilità. :genio_uomo:Buon lavoro e buon divertimento! 
+sia del codice come performance, ma anche, se non soprattutto come leggibilità e mantenibilità. Buon lavoro e buon divertimento! 
